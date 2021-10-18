@@ -73,7 +73,7 @@ Replacing the scores of Thomas High School ninth graders only removed around 1% 
 The main impact was the additional work that removing these scores created, as our percentage of passing scores for Thomas High School students was dramatically thrown off. Before accounting for the reduction in total students and manually adjusting the mean, our percentage of students appearing to pass both the reading and writing for Thomas High school dropped to 65%, making it an average-performing school (with 7 other schools with a lower overall passing percentage, and 7 schools with higher overall passing percentages). After factoring in only 10th-12th grade students for the total student divisor, Thomas High School's overall passing percentage changed to 90.6%, much higher than the 65% we saw when only counting passing 10th-12th graders out of the total 9th-12th grade student population. 
 
 | School Name                           | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Passing Both |
-| -------------                         | -------------      | -------------         | -------------  | -------------     | -------------  |
+| -------------                         | :-------------:  | :-------------:    | :-------------:  | :-------------:   | :-------------:  |
 | Thomas High School (Automatic Mean)     | 83.4  | 83.9 | 66.9 | 69.7 | 65.1 |
 | Thomas High School (Manual Mean)  | 83.4 | 83.9 | 93.2 | 97.0 | 90.6 |
 | Thomas High School (All Students)  | 83.4 | 83.8 | 93.3 | 97.3 | 90.9 |
