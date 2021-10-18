@@ -22,8 +22,8 @@ By replacing the 461 Thomas High School ninth graders scores with "NaN," we were
 
 - how is the school summary affected
 
-<img src = "Images/school_sum_before.png" width = 200>
-![after](Images/school_sum_after.png)
+<img src = "Images/school_sum_before.png" width = 400>
+<img src = "Images/school_sum_after.png" width = 600>
 
 
 - how does replacing ninth graders math and reading scores affect Thomas High School's performance relative to other schools?
