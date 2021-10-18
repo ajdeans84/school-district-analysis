@@ -12,6 +12,8 @@ The school board was concerned that there may have been academic dishonesty rega
 ## Results
 By replacing the 461 Thomas High School ninth graders scores with "NaN," we were able to maintain the student data for the purposes of total students in a school and per capita spending. This allowed us to keep Thomas High School in the correct ranges for size and spending, without impacting the average math and reading scores, along with the percentage of students passing the exams.
 
+![NaN](Images/nan.png)
+
 //bulleted list, use images of dataframes
 - how is the district summary affected
 (Before images pulled from PyCitySchools file, after images pulled from PyCitySchools_Challenge file)
@@ -20,12 +22,14 @@ By replacing the 461 Thomas High School ninth graders scores with "NaN," we were
 
 - how is the school summary affected
 
-![before](Images/school_sum_before.png)
+<img src = "Images/school_sum_before.png" width = 200>
 ![after](Images/school_sum_after.png)
 
 
 - how does replacing ninth graders math and reading scores affect Thomas High School's performance relative to other schools?
 
+![before](Images/relative_before.png)
+![after](Images/relative_after.png)
 
 - how does replacing the ninth graders scores affect the following;
     - math and reading scores by grade
